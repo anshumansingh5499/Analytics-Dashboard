@@ -2,7 +2,7 @@ import dashboardImg from "../assets/zap.jpeg";
 
 const Hero: React.FC = () => {
   return (
-    <section className="relative overflow-hidden pt-36 pb-32 bg-black">
+    <section className="relative overflow-hidden pt-20 pb-32 bg-black">
 
       {/* Subtle Grid Background */}
       <div className="absolute inset-0 pointer-events-none">
