@@ -107,7 +107,7 @@ A modern ** Admin Dashboard** built with **React, TypeScript, TailwindCSS, and Z
 
 1️⃣ Clone the repository
 git clone https://github.com/anshumansingh5499/Analytics-Dashboard.git
-cd user-management-dashboard
+
 
 2️⃣ Install dependencies
 npm install
